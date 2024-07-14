@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/nasir015/nasir015/blob/main/Black%20and%20Brown%20Futuristic%20LinkedIn%20Banner.png)]
+![MasterHead](https://github.com/nasir015/nasir015/blob/main/Black%20and%20Brown%20Futuristic%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Md Nasir Uddin</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/nasir015/nasir015/blob/main/Skills_Animation_White.gif">
