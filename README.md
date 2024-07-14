@@ -2,10 +2,9 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://github.com/nasir015/nasir015/blob/main/Black%20and%20Brown%20Futuristic%20LinkedIn%20Banner.png))]
 <h1 align="center">Hi 👋, I'm Md Nasir Uddin</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasir015&label=Profile%20views&color=0e75b6&style=flat" alt="nasir015" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasir015" alt="nasir015" /></a> </p>
 
 - 🔭 I’m currently working on **Track Back**
 
