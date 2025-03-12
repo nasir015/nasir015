@@ -10,11 +10,8 @@
   <a href="https://www.facebook.com/md.nasir.uddin.10082" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nasir" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/mrirashid" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasir" height="30" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/md-nasir-uddin-620942336/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nasir" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasir" height="30" width="40" />
   </a>
 </p>
 
