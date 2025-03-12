@@ -2,28 +2,25 @@
 
 
 <div align="center">
-  <h1>Hi there 👋, Welcome to Rashidul's profile!</h1>
+  <h1>Hi there 👋, Welcome to Nasir's profile!</h1>
   <h3>A passionate Data Enthusiast</h3>
 </div>
 
 <p align="center">
-  <a href="https://fb.com/mrirashid0" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrirashid" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/mri_rashid" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrirashid" height="30" width="40" />
+  <a href="https://www.facebook.com/md.nasir.uddin.10082" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nasir" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/mrirashid" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrirashid" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasir" height="30" width="40" />
   </a>
-  <a href="https://www.behance.net/mrirashid" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mrirashid" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/md-nasir-uddin-620942336/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nasir" height="30" width="40" />
   </a>
 </p>
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
 
-- 🏫 I am a `Computer Science Student` at [Albukhary International University](#).
+- 🏫 I am a Statistics student at [Noakhali Science and Technology University](https://nstu.edu.bd/).
 - 📚 I’m currently learning `Data Science` and `Machine Learning`.
 - 🤓 Always `learning new things`.
 - 💼 I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
